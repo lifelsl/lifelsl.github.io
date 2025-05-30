@@ -3,7 +3,7 @@
 > \* indicates equal contribution, and † indicates corresponding author.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/paper/consjudge-acl2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 findings</div><img src='images/paper/consjudge-acl2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # Judge as A Judge: Improving the Evaluation of Retrieval-Augmented Generation through the Judge-Consistency of Large Language Models
