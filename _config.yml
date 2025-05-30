@@ -6,30 +6,24 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haidong Xin"
+title                    : "Shuliang Liu"
 description              : "NEUIR & Qiyuan Lab"
-repository               : "xhd0728/xhd0728.github.io"
+repository               : "lifelsl/lifelsl.github.io"
 google_scholar_stats_use_cdn : true
 
-# google analytics
-google_analytics_id      : "G-1T3J0B0NS3"
 
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Haidong Xin"
+  name             : "Shuliang Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "辛海东"
+  bio              : "刘书良"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=8VCnj3sAAAAJ"
-  email            : "hdxin2002@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Haidong-Xin"
+  googlescholar    : "https://scholar.google.com/citations?user=oMszRQQAAAAJ"
+  email            : "liushuliang00@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,21 +31,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xhd0728"
+  github           : "lifelsl"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : # "haidongxin"
-  dblp             : "https://dblp.org/pid/372/7441.html"
-  orcid            : "https://orcid.org/0009-0003-9484-3251"
+  linkedin         :
+  dblp             :
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "23092089/haidong-xin"
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : # "xhd0728"
+  twitter          :
   vine             :
   weibo            :
   xing             :
